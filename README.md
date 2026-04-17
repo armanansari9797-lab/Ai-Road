@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 SkillRoadAI – AI Career Planner
 
-# Run and deploy your AI Studio app
+SkillRoadAI is an AI-powered web application that helps users generate personalized career roadmaps based on their goals, current level, and study availability.
 
-This contains everything you need to run your app locally.
+🔗 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/dcac7d29-f087-42e5-8602-a8b292c24e14
+https://study-planner-app6137.web.app
 
-## Run Locally
+📌 Features
 
-**Prerequisites:**  Node.js
+- 🤖 AI-generated career roadmap
+- 🎯 Input career goal (e.g., Data Scientist, AI Engineer)
+- 📊 Select current level (Beginner / Intermediate / Advanced)
+- ⏱️ Study time customization (hours/day)
+- 🌐 Clean and responsive UI
 
+🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- HTML, CSS, JavaScript
+- Firebase (Hosting, Firestore)
+- AI Studio / Gemini API
+
+▶️ How It Works
+
+1. Enter your career goal
+2. Select your current skill level
+3. Set your daily study time
+4. Get a personalized learning roadmap
+
+⚠️ Important
+
+- API keys are not included for security reasons
+- Do not upload ".env" files
+
+🚀 Future Improvements
+
+- 🔐 User authentication (Login/Signup)
+- 💾 Save user roadmaps
+- 📱 Mobile optimization
+- 🎨 Better UI/UX
+
+👤 Author
+
+Arman Ansari
